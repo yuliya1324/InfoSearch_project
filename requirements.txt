@@ -1,0 +1,10 @@
+transformers
+numpy
+torch
+sklearn
+nltk
+jsonlines
+scipy
+tqdm
+pymorphy2
+streamlit

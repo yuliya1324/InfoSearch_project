@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+data/
+sbert_large_nlu_ru/
